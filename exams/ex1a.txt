@@ -1,0 +1,9 @@
+Définissez les paramètres numériques : nbt (nombre de pas de temps), nbx (nombre de points d'espace), S (facteur de stabilité), c (vitesse de propagation), dx (pas d'espace), dt (pas de temps).
+Créez un espace unidimensionnel x allant de 0 à xmax avec nbx points.
+Initialisez trois tableaux vides : unm, un, unp pour stocker les valeurs de l'onde à différents moments.
+Définissez une fonction animate(n) pour mettre à jour l'onde à chaque itération.
+    dans la finction animate:
+   Calculez les nouvelles valeurs de l'onde en utilisant la méthode des différences finies.
+   Simulez une source à un moment donné en modifiant la valeur d'un point.
+   Mettez à jour les tableaux unm, un, unp.
+Utilisez animation.FuncAnimation() pour créer une animation avec la fonction animate.

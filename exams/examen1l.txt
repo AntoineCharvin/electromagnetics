@@ -1,0 +1,2 @@
+The wavelength of light in a medium is shorter than in a vacuum. The frequency of light remains constant, so a decrease in speed 
+leads to a proportionate decrease in wavelength. The wavelength in the medium is given by lambda0/n.

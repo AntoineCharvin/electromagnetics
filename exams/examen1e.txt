@@ -1,0 +1,7 @@
+l'onde réflichit en premiere avec deux milieu et plus grand que avec trois milieux
+
+Interférence de Fabry-Pérot : Lorsque vous avez trois milieux avec le milieu central très mince, cela peut agir comme un étalon de Fabry-Pérot. Cela signifie 
+que de multiples réflexions peuvent se produire à l'intérieur du milieu mince, conduisant à des motifs d'interférence constructive et destructive. Les motifs
+ spécifiques dépendront de l'épaisseur du milieu, de la longueur d'onde de la lumière et des indices de réfraction.
+
+ https://skullsinthestars.files.wordpress.com/2008/10/fabryconstructdestruct.jpg

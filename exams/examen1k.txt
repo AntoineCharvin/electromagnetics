@@ -1,0 +1,15 @@
+Amortissement du Champ Électrique dans les Conducteurs : Dans les conducteurs, le champ électrique (Ez) est amorti en raison
+ de la présence de porteurs de charge libres. Plus la conductivité est élevée, plus l'amortissement est rapide, ce qui entraîne
+  une profondeur de pénétration plus courte de l'onde électromagnétique dans le conducteur.
+
+Effet de Peau dans les Conducteurs : Le champ électrique dans les conducteurs décroît exponentiellement de la surface vers la
+ profondeur du matériau. Ceci est connu sous le nom d'effet de peau et devient plus prononcé à des fréquences plus élevées.
+
+Absorption d'Énergie dans les Conducteurs : Les conducteurs absorbent plus d'énergie de l'onde électromagnétique,
+ la transformant en chaleur (chauffage Joule) en raison du mouvement des électrons libres. En contraste, les diélectriques
+  stockent et transmettent principalement l'énergie sans pertes significatives.
+
+
+
+
+

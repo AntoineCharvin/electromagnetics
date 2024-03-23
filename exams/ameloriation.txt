@@ -1,0 +1,13 @@
+Amélioration1 : S=1 car pas magique et donc relation de dispersion numérique = 
+relation de dispersion exacte (d’après résolution analytique)
+
+Amélioration2 : Nlambda plus grand, réduit delta x et donc réduit l’erreur, si on réduit dx de 2 ça réduit l’erreur de 4, delta x permet d’avoir une meilleur approximation de la dérivée. Et la dérivée dépend de 
+deltat x^2 donc l’erreur numérique est réduite du changement au carré.
+
+
+Amélioration3 : Augmenter la largeur de l'enveloppe gaussienne dans votre simulation FDTD améliore sa précision en créant une forme d'onde plus lisse et continue, ce qui la rapproche davantage des ondes électromagnétiques
+ du monde réel. Une gaussienne plus large réduit les composantes haute fréquence, ce qui la fait mieux correspondre aux limites de résolution spatiale et temporelle de 
+ la simulation, réduisant ainsi l'aliasing et la dispersion numérique. Cela améliore également la stabilité numérique de la simulation en respectant la condition de 
+ Courant-Friedrichs-Lewy, et cela conduit à moins d'artefacts numériques, en particulier aux interfaces des milieux. En fin de compte, une impulsion gaussienne plus 
+ large assure une représentation plus réaliste et stable de la propagation des ondes, ce qui est crucial pour des simulations précises dans des milieux aux propriétés
+  variables.

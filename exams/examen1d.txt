@@ -1,0 +1,13 @@
+Propagation d'Onde Lumineuse : Observation de la propagation d'une onde électromagnétique dans l'espace, modélisée par une fonction d'onde.
+
+Réfraction dans un Milieu Diélectrique : Changement de la vitesse de l'onde due à la variation de l'indice de réfraction dans le milieu diélectrique,
+ ce qui entraîne une réfraction de l'onde.
+
+Interférence : En raison des réflexions et de la propagation dans différents milieux, il peut y avoir superposition des ondes, conduisant à des phénomènes
+ d'interférence.
+
+Effet de la Source Pulsée : La source de l'onde est une impulsion modélisée par une fonction cosinus multipliée par une enveloppe gaussienne, illustrant 
+comment une source réelle pourrait émettre de la lumière.
+
+Réponse du Milieu Variable : Le changement de l'indice de réfraction ε_r en fonction de la position x simule comment différents matériaux ou variations dans
+ un matériau peuvent affecter la propagation de l'onde.
